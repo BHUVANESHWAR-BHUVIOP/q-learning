@@ -53,7 +53,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 3) Until performance converges.
 4) Return Q.
 
-BHUVANESHWAR V</BR>
+BHUVANESHWAR V </BR>
 212221240009
 
 ## Q LEARNING FUNCTION
