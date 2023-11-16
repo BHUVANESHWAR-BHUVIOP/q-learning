@@ -108,21 +108,20 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 ## OUTPUT:
 
 #### OPTIMAL STATE VALUE FUNCTIONS:
-![image](https://github.com/swethamohanraj/q-learning/assets/94228215/3d73c2d1-52e3-4c8f-99ee-8dc9bdc187c8)
+![w](https://github.com/BHUVANESHWAR-BHUVIOP/q-learning/assets/94155099/b9de8497-764f-4f9a-9b71-3cafe30540cc)
 
 
 #### OPTIMAL ACTION VALUE FUNCTION:
+![e](https://github.com/BHUVANESHWAR-BHUVIOP/q-learning/assets/94155099/992d591c-d222-4bdf-9eb8-1eb5df266cf2)
 
-![image](https://github.com/swethamohanraj/q-learning/assets/94228215/8a681611-2963-458d-b04e-c2436cd18755)
 
 #### STATE VALUE FUNCTION OF MONTE CARLO METHOD:
-
-![image](https://github.com/swethamohanraj/q-learning/assets/94228215/3c0422d9-7190-4600-89ab-3a1c7ba7c343)
+![m](https://github.com/BHUVANESHWAR-BHUVIOP/q-learning/assets/94155099/42272607-f3df-4b87-96bf-c41c5adede72)
 
 
 #### STATE VALUE FUNCTION OF Q-LEARNING METHOD:
 
-![image](https://github.com/swethamohanraj/q-learning/assets/94228215/8f585a3d-084f-470f-9577-538f75c3d628)
+![n](https://github.com/BHUVANESHWAR-BHUVIOP/q-learning/assets/94155099/c2c05780-8ed6-4138-8253-8154af2cdd9a)
 
 
 
